@@ -23,8 +23,10 @@ Installation
 Zuerst sollte man sich das Git Repository clonen und sich eine MySQL Datenbank installieren.
 
 dannn muss noch das Frontend gestartet werden. Dazu navigiert man mit einem neuen Terminal zu dem Frontend Ordner und gibt den folgenen Befehl ein:
+
 ng serve 
 
 Zum Schlus kann das Backend im Terminal im Ordner "backend" gestartet und mit Datenbank verbundet werden mit
+
 node index.js
 
